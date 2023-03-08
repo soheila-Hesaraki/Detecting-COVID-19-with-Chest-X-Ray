@@ -1,4 +1,9 @@
 # Detecting-COVID-19-with-Chest-X-Ray
 
-## Project Description
-This project involves the creation and training of a ResNet-18 model using PyTorch, which is then applied to a collection of chest X-ray data. The dataset contains approximately 3000 Chest X-Ray scans, categorized into three groups: Normal, Viral Pneumonia, and COVID-19. The primary goal of this project is to build an image classification model that can accurately predict the class of a Chest X-Ray scan from one of these three categories with a reasonable degree of accuracy. You can find the dataset and my codes in the folder.
+Check out my super cool project called "Detecting-COVID-19-with-Chest-X-Ray". It involves training a ResNet-18 model using PyTorch and applying it to a bunch of chest X-ray data. Sounds nerdy, right? 😜
+
+But don't worry, it's not all boring stuff! Our main goal is to build an image classification model that can accurately predict the class of a Chest X-Ray scan from one of these three categories: Normal, Viral Pneumonia, or COVID-19. So, we're basically saving the world one X-ray scan at a time! 🦸‍♀️
+
+And where do we get all this cool data, you ask? Well, we got our hands on the COVID-19 Radiography Dataset from [Kaggle](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database), which has around 3000 Chest X-Ray scans. It's like being a detective but for X-rays! 🔍
+
+So, are you ready to join me in this exciting adventure of detecting COVID-19 with chest X-rays? Let's go! 🚀
